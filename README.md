@@ -82,4 +82,4 @@ class Islem:
 
 ## GitHub
 
-> GitHub repo linki buraya eklenecek: `https://github.com/...`
+> GitHub repo linki: https://github.com/atlends/Senanur_Ozcan_24111005_Yazilim_Gelistirme2
